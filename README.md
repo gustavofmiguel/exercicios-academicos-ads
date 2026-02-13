@@ -10,7 +10,7 @@ Exercícios sequenciais, feito em aula sobre **fundamentos de lógica de program
 - Números float/double
 - Médias (aritmética/ponderada)
 - Operadores relacionais
-- `if` / `else` / `else if`
+- Estruturas Condicionais  `if` / `else` / `else if`
 - Operadores lógicos (`&&`, `||`, `!`)
 - Laços `while` / `do-while` / `for`
 - switch-case
